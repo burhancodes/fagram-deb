@@ -84,7 +84,7 @@ mkdir -p fagram/DEBIAN
 cp -r usr fagram/
 rm -rf fagram/usr/share/metainfo
 rm -rf fagram/usr/share/dbus-1
-mv fagram/usr/share/applications/*.desktop fagram/usr/share/applications/fagram.desktop
+mv fagram/usr/share/applications/*.desktop fagram/usr/share/applications/org.fagram.desktop
 cat <<EOF >> fagram/DEBIAN/control
 Package: fagram
 Architecture: amd64
@@ -95,7 +95,7 @@ Description: FAgram Desktop is a custom Telegram client
 EOF
 chmod +x fagram/usr/bin/fagram
 chmod +x fagram/usr/share/applications/*.desktop
-sed -i 's/Name=fagram/Name=fagram/g' fagram/usr/share/applications/fagram.desktop
+sed -i 's/Name=fagram/Name=fagram/g' fagram/usr/share/applications/org.fagram.desktop
 dpkg-deb -b fagram
 
 
