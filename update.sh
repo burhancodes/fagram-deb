@@ -16,7 +16,7 @@ usage() {
 #REPOSITORY=$1
 #FILE_PATTERN=$2
 REPOSITORY='burhancodes/fagram-rpm'
-FILE_PATTERN='fagram-v*.tar.gz'
+FILE_PATTERN='fagram-*.tar.gz'
 
 
 # Check if latestversion file exists
