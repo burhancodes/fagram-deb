@@ -5,30 +5,30 @@ Origin: fagram
 Label: FAgram Github Apt Repo
 Suite: stable
 Codename: bionic
-Date: Fri, 29 Aug 2025 20:19:13 UTC
+Date: Tue, 18 Nov 2025 12:46:52 UTC
 Architectures: amd64
 Components: main
 Description: fagram x64 github Apt repository
 MD5Sum:
- 1568e0b0c95658134f3a2364babc27b8 390 main/binary-amd64/Packages
- ac48a2a8138a3725781ce1b844e89568 301 main/binary-amd64/Packages.gz
+ 702f95e4e4f3c5ad89809c9b05171dc6 390 main/binary-amd64/Packages
+ 3c2041f8faa4e7fea44fdb952193a58f 301 main/binary-amd64/Packages.gz
  ec7cb63bfb418a68aca55c2497b39677 143 main/binary-amd64/Release
 SHA1:
- fbec22693830d71aad166b5bc992392d3ab6b2e0 390 main/binary-amd64/Packages
- 35729f3884e9e8ac4d359eec04d8ea9fea46e2d4 301 main/binary-amd64/Packages.gz
+ d78623112bc608ea19ff6aad0a2c6b3d69ead8dd 390 main/binary-amd64/Packages
+ f667dc28dffc4d60f60da0ff6afa899081a9eac6 301 main/binary-amd64/Packages.gz
  eb36b84dd08eddde3428a164748a1e744f6583ec 143 main/binary-amd64/Release
 SHA256:
- 6b3367462ab58e053890ba58e3806c2576564530b09fc3e5faad578aec16656d 390 main/binary-amd64/Packages
- 15140a537fa7903128ae4118e470af59a91c531908be1620ea84084b39954905 301 main/binary-amd64/Packages.gz
+ 8c0346fbcc869be66a00ed38ae0a4600256c1116e92661bbd2a38e0b9c5afbc2 390 main/binary-amd64/Packages
+ 5a9317d49be8045fabd08eaba1e10d7f5e7f7f31a00c8731d4f069dd01d05156 301 main/binary-amd64/Packages.gz
  822cf6e50e5f46aaae158caab1e4e1c0e5212a74f19ab0a989f7e711f5b604f4 143 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEuA/CRpHemKgsuHH/C/adjcgLvi4FAmiyC0EACgkQC/adjcgL
-vi6/VwgAh58+sYSYqhjWSklFCfFIu8Zy51pKPxqIpr0LExMxe+3WqpPWoJGlmLGN
-7Cqujd0AS2UXlZUR6nmvfbTpsbBiOSHOAazfQBFA/h4+tubgmHDz81BsnMXOHwsz
-jM8O+ZkzaooezphJN8OuE8ipJkbdzEyinPcid5Nq9gJFqPYYg8NtVyg4Z9ZkyTDW
-pzeOr9ULk1gMSbc/86anom3eQFAlrT9KxtNX8aVvBLAbjBHRUTZ99tQ5Taj8MmaU
-qFBVxWKtEn6o94F0vajK45Y5/fSm4rhgjdlI7F2JmD3b8DND6gppD0BU62gAMzBh
-MIiP/zwr25LbbE+N2duMh1xRgkmzuw==
-=WbQS
+iQEzBAEBCgAdFiEEuA/CRpHemKgsuHH/C/adjcgLvi4FAmkcarwACgkQC/adjcgL
+vi6cdwgAtIBtpsqk2o2Kjnxi5ShDNCU2dgLuyTvEVRA3iV7BmalAF7YLfikh+Mof
+d7tNM+NrK435Juo0Ty0yQ8CHHr4/c9GbtxReWT8lOVsVujlLMRU7rJVNV4zMGd4g
+cP+8Ibg0INM2zGP1YH1cX2RdbL5UVAGupdBZFG3r4XqCZud/EdGb3C5e29/lcKME
+TKz2ZTKKFTporZbfvUP85OuExoDrYEhyqfbWx7n2GKsfw8X04Kz8UJ9eAB3cvZKc
+BN7LAGzTikJxO1Zd+AP27wr9FMatQU+yZCVPqwkeKuMjfC3AAuqyprKqCfn2aFvw
+5tYJgFSdo456Rz3PUtTFbe0bVIjC/g==
+=vNC7
 -----END PGP SIGNATURE-----
