@@ -1,13 +1,13 @@
 Package: fagram
 Architecture: amd64
 Maintainer: @burhanverse
-Version: 2.1.0
+Version: 2.1.1
 Priority: 0
 Section: utils
-Filename: pool/main/f/fagram/fagram_2.1.0_amd64.deb
-Size: 85772270
-SHA256: ba0268d7ec9c6d7dfb0b7fc69e60b70c7cabd8ddc6c834c71a781326409d3120
-SHA1: 6df34044ffbeadb3e46d22517ba78aec2b3bec79
-MD5sum: e944d11adb127cf2fa68d71907525442
+Filename: pool/main/f/fagram/fagram_2.1.1_amd64.deb
+Size: 85754572
+SHA256: 6ce09854c818c4b2368a874815ec479bcb8cadc1d3b8f9193172e689f68b6b86
+SHA1: e53f98e903d28648b337b64e11f74796fa3b0aee
+MD5sum: 3ed469dacb3207ba2ca5c845610062d7
 Description: FAgram Desktop is a custom Telegram client
 
