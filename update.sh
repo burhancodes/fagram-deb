@@ -96,6 +96,7 @@ EOF
 chmod +x fagram/usr/bin/fagram
 chmod +x fagram/usr/share/applications/*.desktop
 sed -i 's/Name=fagram/Name=fagram/g' fagram/usr/share/applications/org.fagram.desktop
+sed -i '/DBusActivatable=true/d' fagram/usr/share/applications/org.fagram.desktop
 dpkg-deb -b fagram
 
 
