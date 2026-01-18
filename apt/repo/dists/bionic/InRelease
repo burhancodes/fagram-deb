@@ -5,30 +5,30 @@ Origin: fagram
 Label: FAgram Github Apt Repo
 Suite: stable
 Codename: bionic
-Date: Wed, 14 Jan 2026 07:06:42 UTC
+Date: Sun, 18 Jan 2026 14:39:09 UTC
 Architectures: amd64
 Components: main
 Description: fagram x64 github Apt repository
 MD5Sum:
- 320341af617325344fa3343eb66fa45d 388 main/binary-amd64/Packages
- c928c042358d79ecf05332b19f6f63e8 302 main/binary-amd64/Packages.gz
+ 15f73838868d6a9aa1bd15ee126cb3fd 388 main/binary-amd64/Packages
+ 8f362432f686127e618c1bacb8ab1be6 300 main/binary-amd64/Packages.gz
  ec7cb63bfb418a68aca55c2497b39677 143 main/binary-amd64/Release
 SHA1:
- 04d3eee99c7faddb09105c12dfddd38faed37172 388 main/binary-amd64/Packages
- ba4767ccf0a23f0b78f3d0a46f33d4b003c7fff3 302 main/binary-amd64/Packages.gz
+ c6464fc2b52dfe1a60ff224ff9d25961986806bf 388 main/binary-amd64/Packages
+ 609a4bad7f7d8bbe89326836105c032a19ddf27c 300 main/binary-amd64/Packages.gz
  eb36b84dd08eddde3428a164748a1e744f6583ec 143 main/binary-amd64/Release
 SHA256:
- a324f440b522c34c2c14a20d28e5144ae612f5917493f3036fcd2f3097a54239 388 main/binary-amd64/Packages
- 22f0bc022e94ef3345e7400140f373ca6f7104e926e177f8ab3666f1ba59721f 302 main/binary-amd64/Packages.gz
+ 4c322c74a00e3ffadfaaf53c858ddaded59c59cbad4c1d4286ea999d84c6d9a7 388 main/binary-amd64/Packages
+ 43ac758250185d7e54eec6a57fa6929ada6e322b773318924de3968ee8367ce0 300 main/binary-amd64/Packages.gz
  822cf6e50e5f46aaae158caab1e4e1c0e5212a74f19ab0a989f7e711f5b604f4 143 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEuA/CRpHemKgsuHH/C/adjcgLvi4FAmlnQIIACgkQC/adjcgL
-vi5tRwf9FxfiN2OSmknlkTmYB8dYdfCENxrE2QGwUuGK404UASmJMOxlXEY0Y73l
-tRNCVNhFrJBfWu7qQN/l/JzHe/g4958zPdpFcBH/IPI4bkquf8M6BMj+zuq68IGJ
-bTkzmEYfigFInJRkPlm0BuOVlgwZIIxw58HY+fqEKKrLUJP8vzUkaShDZEKnB7fq
-7A5hVC0hqe7jP/ijLS48xmF3IOQc0jPKJJ769N6/Tv8jHFV8jIbfAyFjQLUTILZS
-CjKYoGl0gXm0bcnG3UqJ35pbfJJK2ai46vdUDYD1cVmmss0lRwnonFDMdJRGmWkr
-/Dz2nP2k6NFiq8UXSSvW2KyYpeBIdQ==
-=KSy1
+iQEzBAEBCgAdFiEEuA/CRpHemKgsuHH/C/adjcgLvi4FAmls8I0ACgkQC/adjcgL
+vi6M4gf+LTGu7EqdQOc3if+NsoF8SBABi4LaxOW6EVnBDk7BlfgCgbc66MUKiBeG
+2wy/PCdfK4fbAh2AjilhUEY7gKSkMYNdJocUhjwvEtegP+l8vn6SWZRyaaU2EohB
+g48ayj6x98vrFA4zNVc7CQGj4W75QNsODIMJRGs5M0Lb4hdRNb57/+VHxuELQWwd
+HbdEXcs9kjopRCCbzysf7/m9YdwkpB+KrXEbQxxdEifxQanliUry8fa9IDzqUqzc
+NstGBkxPB3PbEuK3ntlASH8tgF/1/XHuYezXlhKgbFvylqPxDu/xFKN+IG81DwX2
+ilkvI46R0SdwRceqxF8qE8Of0Yl2qA==
+=mLUc
 -----END PGP SIGNATURE-----
